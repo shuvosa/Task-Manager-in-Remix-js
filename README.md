@@ -1,4 +1,4 @@
-Task Manager in Remix js 
+Task Manager
 
 A simple web application for managing tasks, built with Remix.js and MongoDB.
 
